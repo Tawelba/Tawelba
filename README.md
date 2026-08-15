@@ -1,6 +1,6 @@
 # Hi, I'm Shaibu Fuseini 👋
 
-**SOC Analyst | Cybersecurity | Threat Detection & Incident Response**
+**SOC analyst in training | Sentinel, KQL, detection engineering | 10+ yrs monitoring and investigation | Security+ in progress.**
 
 I'm a cybersecurity professional focused on threat detection, incident response, and building security tools. I work with SIEM platforms, network analysis tools, and Python automation to identify and respond to security threats.
 
@@ -11,7 +11,7 @@ I'm a cybersecurity professional focused on threat detection, incident response,
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?logo=kali-linux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+
 
 ## 📊 Featured Projects
 
