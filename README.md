@@ -2,9 +2,44 @@
 
 **SOC analyst in training | Sentinel, KQL, detection engineering | 10+ yrs monitoring and investigation | Security+ in progress.**
 
-I'm a cybersecurity professional focused on threat detection, incident response, and building security tools. I work with SIEM platforms, network analysis tools, and Python automation to identify and respond to security threats.
+---
 
-## 🛠️ Skills
+## About
+
+I'm a cybersecurity professional focused on threat detection, incident response, and detection engineering. With 10+ years of experience in monitoring and investigation, I'm now building hands-on SOC skills through the MyFirstHack Mentorship program — working with Microsoft Sentinel, KQL, ELK, Sigma rules, and Python automation to detect and respond to security threats in real time.
+
+My work spans:
+- SIEM detection engineering (Microsoft Sentinel, ELK)
+- KQL and Sigma rule authoring
+- Brute-force and identity-based attack investigation
+- IAM lifecycle automation (Okta JML)
+- Python scripting for log forwarding and alerting
+
+---
+
+## Certifications
+
+| Certification | Status |
+|---|---|
+| CompTIA Security+ | In Progress |
+| MyFirstHack Mentorship — SOC Track | Ongoing |
+
+---
+
+## Projects
+
+Here's where my real work lives. More projects will be published here over the coming weeks.
+
+| Project | Description |
+|---|---|
+| [brute_force_soc_investigation](https://github.com/Tawelba/brute_force_soc_investigation) | Brute-force login investigation — log scoping, KQL analysis, and incident response write-up |
+| [okta-jml-lifecycle](https://github.com/Tawelba/okta-jml-lifecycle) | Automated joiner-mover-leaver (JML) identity lifecycle with Okta |
+| [soc-homelab](https://github.com/Tawelba/soc-homelab) | Home SOC lab setup with Security Onion, detection rules, and threat analysis |
+| [schoolRESTAPI](https://github.com/Tawelba/schoolRESTAPI) | School information system REST API (TypeScript) |
+
+---
+
+## Skills
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
@@ -12,18 +47,9 @@ I'm a cybersecurity professional focused on threat detection, incident response,
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
+---
 
-## 📊 Featured Projects
-
-🔒 **SOC Homelab** — *Coming soon*
-  Building a home SIEM lab with Security Onion for threat detection and analysis.
-
-📝 **CTF Writeups** — *Coming soon*
-  Methodology and solutions from TryHackMe and HackTheBox challenges.
-
-📋 **isrt_ham1** — Monthly returns tracking system for generator inventory management.
-
-## 📫 Connect
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaibu-fuseini-5b5244247)
 [![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white)](mailto:stawelba@gmail.com)
