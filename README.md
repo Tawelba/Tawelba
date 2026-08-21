@@ -1,6 +1,6 @@
 # Hi, I'm Shaibu Fuseini 👋
 
-**SOC analyst in training | Sentinel, KQL, detection engineering | 10+ yrs monitoring and investigation | Security+ in progress.**
+**SOC analyst | Sentinel, KQL, detection engineering | 10+ yrs monitoring and investigation | Security+ in progress.**
 
 ---
 
@@ -22,7 +22,7 @@ My work spans:
 | Certification | Status |
 |---|---|
 | CompTIA Security+ | In Progress |
-| MyFirstHack Mentorship — SOC Track | Ongoing |
+| MyFirstHack Internship — SOC Track | Ongoing |
 
 ---
 
