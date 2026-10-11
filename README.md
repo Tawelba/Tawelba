@@ -28,14 +28,23 @@ My work spans:
 
 ## Projects
 
-Here's where my real work lives. More projects will be published here over the coming weeks.
+A selection of my security and software projects, with their current scope and status.
 
 | Project | Description |
 |---|---|
 | [brute_force_soc_investigation](https://github.com/Tawelba/brute_force_soc_investigation) | Brute-force login investigation — log scoping, KQL analysis, and incident response write-up |
 | [okta-jml-lifecycle](https://github.com/Tawelba/okta-jml-lifecycle) | Automated joiner-mover-leaver (JML) identity lifecycle with Okta |
-| [soc-homelab](https://github.com/Tawelba/soc-homelab) | Home SOC lab setup with Security Onion, detection rules, and threat analysis |
+| [soc-homelab](https://github.com/Tawelba/soc-homelab) | **Work in progress:** segmented VirtualBox lab with OPNsense, Wazuh, two Linux agents and Kali; first SSH authentication detection validated. Windows telemetry and further investigation exercises are next. |
+| Vehicle Monitoring System — private repository | **Finalisation in progress:** Python application for transit vehicle monitoring, structured data capture, movement-sheet OCR, search, dashboards, Excel/PDF reporting, PowerPoint briefings and outstanding-list reconciliation. Includes separate practice records, protected editing/deletion, audit history and backup workflows. Operational records and credentials are excluded from GitHub. |
 | [schoolRESTAPI](https://github.com/Tawelba/schoolRESTAPI) | School information system REST API (TypeScript) |
+
+---
+
+## Current focus
+
+- Finalise the Vehicle Monitoring System and its operational checks.
+- Then complete the existing SOC Home Lab, extending Windows telemetry, detection validation, incident investigations and recovery exercises.
+- Document practical results and limitations in reproducible portfolio case studies.
 
 ---
 
